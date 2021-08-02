@@ -7,4 +7,4 @@ In this project there are some modification to suite hadoop 3.0 enviroment <br/>
   2.Add pdfbox to eclips to your project  <br/> 
   Now you can follow the normal process to execute a code in Hadoop <br/> 
   pdf1.jar is the final jar file you can directly execute it (make sure that u have completed step-1) <br/> 
-  <b>Video :</b>https://drive.google.com/file/d/1Ig2NY4hOE3sOq9lVDsHnMG7Pgu8FEf_W/view?usp=sharing
+  <b>Video :</b>https://drive.google.com/file/d/1r6o2pXQ32rsLCyYFB6Y-kw5uMSmZ8fIj/view?usp=sharing
